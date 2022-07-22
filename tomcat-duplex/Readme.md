@@ -8,3 +8,7 @@
 ### 2. server.xml -> cluster 태그 설정
 
 ### -> 톰캣 2개 구동 후 세션 공유되는지 
+
+### -> 도움되는 사이트 : https://shxrecord.tistory.com/255?category=663434
+### http://it-archives.com/222215439006/
+### https://dantes.kr/526
