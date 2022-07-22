@@ -1,1 +1,2 @@
-# Duplication_study
+# 이중화 공부
+### 톰캣 이중화 해보기
